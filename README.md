@@ -10,7 +10,7 @@ _This is a practice project that explores using Angular2 with .NET to build a bo
 
 ## Setup/Installation Requirements
 
-* _Open project in Microsoft Visual Studio 2015_
+* _Open project in Microsoft Visual Studio 2015_ 
 * _Right click on the project name and select "Build"_
 * _In the command line, navigate to the project within the "src" file (i.e, Bookstore>src>Bookstore)_
 * _Type in the command: "dotnet ef database update"_
